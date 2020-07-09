@@ -13,3 +13,7 @@ button {
 .jumbotron {
     display: none;
 }
+
+.form-group {
+    border: cyan;
+}
