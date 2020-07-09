@@ -1,0 +1,15 @@
+.form-group {
+    margin: 30px;
+    width: 300px;
+}
+
+label {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+.jumbotron {
+    display: none;
+}
